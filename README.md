@@ -1,0 +1,1 @@
+Bu çalışmada müşteri davranışlarına göre müşteri segmentasyonu yapmak için CRM analizi yapılmıştır. CRM Analizinde makine öğrenmesinin denetimsiz öğrenme modellerinden K-Means algoritması kullanılmıştır.
